@@ -1,0 +1,14 @@
+C:\Users\SP\Desktop\ReSkill\Final project\GameOfPockets\GameOfPockets\bin\Debug\netcoreapp3.1\GameOfPockets.exe
+C:\Users\SP\Desktop\ReSkill\Final project\GameOfPockets\GameOfPockets\bin\Debug\netcoreapp3.1\GameOfPockets.deps.json
+C:\Users\SP\Desktop\ReSkill\Final project\GameOfPockets\GameOfPockets\bin\Debug\netcoreapp3.1\GameOfPockets.runtimeconfig.json
+C:\Users\SP\Desktop\ReSkill\Final project\GameOfPockets\GameOfPockets\bin\Debug\netcoreapp3.1\GameOfPockets.runtimeconfig.dev.json
+C:\Users\SP\Desktop\ReSkill\Final project\GameOfPockets\GameOfPockets\bin\Debug\netcoreapp3.1\GameOfPockets.dll
+C:\Users\SP\Desktop\ReSkill\Final project\GameOfPockets\GameOfPockets\bin\Debug\netcoreapp3.1\GameOfPockets.pdb
+C:\Users\SP\Desktop\ReSkill\Final project\GameOfPockets\GameOfPockets\obj\Debug\netcoreapp3.1\GameOfPockets.csproj.AssemblyReference.cache
+C:\Users\SP\Desktop\ReSkill\Final project\GameOfPockets\GameOfPockets\obj\Debug\netcoreapp3.1\GameOfPockets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SP\Desktop\ReSkill\Final project\GameOfPockets\GameOfPockets\obj\Debug\netcoreapp3.1\GameOfPockets.AssemblyInfoInputs.cache
+C:\Users\SP\Desktop\ReSkill\Final project\GameOfPockets\GameOfPockets\obj\Debug\netcoreapp3.1\GameOfPockets.AssemblyInfo.cs
+C:\Users\SP\Desktop\ReSkill\Final project\GameOfPockets\GameOfPockets\obj\Debug\netcoreapp3.1\GameOfPockets.csproj.CoreCompileInputs.cache
+C:\Users\SP\Desktop\ReSkill\Final project\GameOfPockets\GameOfPockets\obj\Debug\netcoreapp3.1\GameOfPockets.dll
+C:\Users\SP\Desktop\ReSkill\Final project\GameOfPockets\GameOfPockets\obj\Debug\netcoreapp3.1\GameOfPockets.pdb
+C:\Users\SP\Desktop\ReSkill\Final project\GameOfPockets\GameOfPockets\obj\Debug\netcoreapp3.1\GameOfPockets.genruntimeconfig.cache
