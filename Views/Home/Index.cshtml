@@ -1,0 +1,14 @@
+﻿@model List<InvestorViewModel>
+
+<button type="button" class="btn btn-primary">Load New Game</button>
+<button type="button" class="btn btn-success">Load New Period</button>
+<button type="button" class="btn btn-warning">End the Game</button>
+
+
+    @foreach (var item in Model)
+    {
+        <div class="container">
+        <h4>@item.Name : @item.Wealth</h4>
+        </div>
+        <hr />
+    }
